@@ -35,6 +35,8 @@ Key components include:
 -  **Robust Evaluation**: Tested against diverse spoofing attempts (replay, print)
 -  **Inclusive Design**: Tailored for the South Asian demographic
 
+<img src = "Pictures/1.png">
+
 </br>
 
 ---
