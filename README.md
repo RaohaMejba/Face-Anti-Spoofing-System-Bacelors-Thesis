@@ -25,8 +25,6 @@ Key components include:
 
 </br>
 
----
-
 ## Key Features
 
 -  **MiniFASNet Integration**: Lightweight and efficient CNN model for spoof detection
@@ -38,8 +36,6 @@ Key components include:
 <img src = "Pictures/1.png">
 
 </br>
-
----
 
 ##  Tools & Technologies
 
@@ -56,8 +52,6 @@ Key components include:
 > Access to the dataset can be requested on a case-by-case basis for academic purposes only.
 
 </br>
-
----
 
 ##  Thesis Reference
 
