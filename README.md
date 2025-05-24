@@ -53,6 +53,10 @@ Key components include:
 
 </br>
 
+
+##  Demonstration Video
+- [Weiyun Share](https://share.weiyun.com/DBI2wX4v)
+- [One Drive](https://1drv.ms/v/c/ff1167d5fb2bbfdb/EXEQIV3XXChKquqdVj55-rkBraP7thiLIiWoVMAKM7SJog?e=W4ZIbw)
 ##  Thesis Reference
 
 This system was developed as part of my undergraduate thesis:
